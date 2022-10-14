@@ -82,3 +82,377 @@
   service: 'user-service',
   timestamp: '2022-10-13T16:09:16.958Z'
 }
+{
+  message: 'information log',
+  level: 'info',
+  service: 'user-service',
+  timestamp: '2022-10-13T16:25:33.169Z'
+}
+{
+  message: 'warning log',
+  level: 'warn',
+  service: 'user-service',
+  timestamp: '2022-10-13T16:25:33.171Z'
+}
+{
+  message: 'error log',
+  level: 'error',
+  service: 'user-service',
+  timestamp: '2022-10-13T16:25:33.171Z'
+}
+{
+  message: 'debug log',
+  level: 'debug',
+  service: 'user-service',
+  timestamp: '2022-10-13T16:25:33.172Z'
+}
+{
+  service: 'user-service',
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:40:26.674Z'
+}
+{
+  service: 'user-service',
+  method: 'MyLogger.info',
+  file: '/home/naman/code/sharvil-logger/logger/format1.js',
+  line: 31,
+  char: 43,
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:40:49.097Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 3,
+  char: 8,
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:41:08.501Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 3,
+  char: 8,
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:43:09.157Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 4,
+  char: 8,
+  level: 'warn',
+  message: 'warning log',
+  timestamp: '2022-10-13T16:43:09.160Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 5,
+  char: 8,
+  level: 'error',
+  message: 'error log',
+  timestamp: '2022-10-13T16:43:09.160Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 6,
+  char: 8,
+  level: 'error',
+  message: 'debug log',
+  timestamp: '2022-10-13T16:43:09.160Z'
+}
+{
+  service: 'user-service',
+  line: 36,
+  method: 'MyLogger.info',
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:45:53.348Z'
+}
+{
+  service: 'user-service',
+  line: 40,
+  method: 'MyLogger.warn',
+  level: 'info',
+  message: 'warning log',
+  timestamp: '2022-10-13T16:45:53.351Z'
+}
+{
+  service: 'user-service',
+  line: 44,
+  method: 'MyLogger.error',
+  level: 'info',
+  message: 'error log',
+  timestamp: '2022-10-13T16:45:53.351Z'
+}
+{
+  service: 'user-service',
+  line: 48,
+  method: 'MyLogger.debug',
+  level: 'info',
+  message: 'debug log',
+  timestamp: '2022-10-13T16:45:53.351Z'
+}
+{
+  service: 'user-service',
+  line: 3,
+  method: 'Object.<anonymous>',
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:46:11.019Z'
+}
+{
+  service: 'user-service',
+  line: 4,
+  method: 'Object.<anonymous>',
+  level: 'info',
+  message: 'warning log',
+  timestamp: '2022-10-13T16:46:11.022Z'
+}
+{
+  service: 'user-service',
+  line: 5,
+  method: 'Object.<anonymous>',
+  level: 'info',
+  message: 'error log',
+  timestamp: '2022-10-13T16:46:11.022Z'
+}
+{
+  service: 'user-service',
+  line: 6,
+  method: 'Object.<anonymous>',
+  level: 'info',
+  message: 'debug log',
+  timestamp: '2022-10-13T16:46:11.022Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 3,
+  char: 8,
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:46:42.042Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 4,
+  char: 8,
+  level: 'info',
+  message: 'warning log',
+  timestamp: '2022-10-13T16:46:42.045Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 5,
+  char: 8,
+  level: 'info',
+  message: 'error log',
+  timestamp: '2022-10-13T16:46:42.045Z'
+}
+{
+  service: 'user-service',
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  line: 6,
+  char: 8,
+  level: 'info',
+  message: 'debug log',
+  timestamp: '2022-10-13T16:46:42.045Z'
+}
+{
+  service: 'user-service',
+  line: 3,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:47:07.892Z'
+}
+{
+  service: 'user-service',
+  line: 4,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'warning log',
+  timestamp: '2022-10-13T16:47:07.894Z'
+}
+{
+  service: 'user-service',
+  line: 5,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'error log',
+  timestamp: '2022-10-13T16:47:07.895Z'
+}
+{
+  service: 'user-service',
+  line: 6,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'debug log',
+  timestamp: '2022-10-13T16:47:07.895Z'
+}
+{
+  service: 'user-service',
+  line: 3,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:47:18.342Z'
+}
+{
+  service: 'user-service',
+  line: 4,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'warning log',
+  timestamp: '2022-10-13T16:47:18.345Z'
+}
+{
+  service: 'user-service',
+  line: 5,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'error log',
+  timestamp: '2022-10-13T16:47:18.346Z'
+}
+{
+  service: 'user-service',
+  line: 6,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'debug log',
+  timestamp: '2022-10-13T16:47:18.346Z'
+}
+{
+  service: 'user-service',
+  line: 3,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:50:07.185Z'
+}
+{
+  service: 'user-service',
+  line: 4,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'warning log',
+  timestamp: '2022-10-13T16:50:07.187Z'
+}
+{
+  service: 'user-service',
+  line: 5,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'error log',
+  timestamp: '2022-10-13T16:50:07.188Z'
+}
+{
+  service: 'user-service',
+  line: 6,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'debug log',
+  timestamp: '2022-10-13T16:50:07.188Z'
+}
+{
+  service: 'user-service',
+  line: 3,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T16:50:30.232Z'
+}
+{
+  service: 'user-service',
+  line: 4,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'warning log',
+  timestamp: '2022-10-13T16:50:30.235Z'
+}
+{
+  service: 'user-service',
+  line: 5,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'error log',
+  timestamp: '2022-10-13T16:50:30.235Z'
+}
+{
+  service: 'user-service',
+  line: 6,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'debug log',
+  timestamp: '2022-10-13T16:50:30.235Z'
+}
+{
+  service: 'user-service',
+  line: 3,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'information log',
+  timestamp: '2022-10-13T17:01:09.658Z'
+}
+{
+  service: 'user-service',
+  line: 4,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'warning log',
+  timestamp: '2022-10-13T17:01:09.660Z'
+}
+{
+  service: 'user-service',
+  line: 5,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'error log',
+  timestamp: '2022-10-13T17:01:09.661Z'
+}
+{
+  service: 'user-service',
+  line: 6,
+  method: 'Object.<anonymous>',
+  file: '/home/naman/code/sharvil-logger/index.js',
+  level: 'info',
+  message: 'debug log',
+  timestamp: '2022-10-13T17:01:09.661Z'
+}
